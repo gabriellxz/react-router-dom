@@ -1,0 +1,13 @@
+.color-green {
+    color: green;
+    font-weight: 700;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.db {
+    display: flex;
+    flex-direction: column;
+}
